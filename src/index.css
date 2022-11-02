@@ -22,8 +22,7 @@
 }
 .Card {
   background-color: rgba(254, 255, 255, 0.329);
-  margin-left: 20rem;
-  margin-right: 20rem;
+  margin: 5rem;
   padding: 30px;
   border-radius: 30px;
 }
